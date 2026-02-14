@@ -1,0 +1,1 @@
+This is Front end app for fraud detection, build on Streamlit 
